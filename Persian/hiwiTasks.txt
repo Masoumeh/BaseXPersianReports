@@ -1,0 +1,6 @@
+1.cursor, caret, nim space, select, mark, query editor.
+2. textfield cursur orientation based on local language
+3. GUIStatus: timing lable test needs to be fixed: 23 ms (ms is in right side)
+4. timeing chart in query info
+5. explorerview is racked!!!
+6. tooltips translation.

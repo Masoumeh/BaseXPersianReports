@@ -1,0 +1,10 @@
+Mouse selection: should be right to left
+*Option/map layout: slider, should be right to left
+Editor: should be checked in all windows to set RTl if necessary
+DB Property: tabs name & path editors should be LTR
+Erro msg dialogs: not working properly. All should be checked.
+server administration: some tabs are not checked since they are inactive.
+Option/packages: sucks!!!
+Server Menu/Log tab: Persian messages are not shown properly.
+
+
